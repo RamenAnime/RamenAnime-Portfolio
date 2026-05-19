@@ -6,6 +6,8 @@
 
 **Role:** Founder and Full-Stack Developer
 
+> This is the **public portfolio** for Ramen Anime. The production codebase lives in a separate repository (often private). This repo is linked into the main app repo as the `RamenAnime-Portfolio` Git submodule so reviewers can read project documentation without access to source code.
+
 ---
 
 ## Table of Contents
