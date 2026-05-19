@@ -5,7 +5,7 @@ Use this after you make [RamenAnime/RamenAnime](https://github.com/RamenAnime/Ra
 ## 1. Bio (Profile → Edit profile)
 
 ```
-🍜 Ramen Anime — anime marketplace & auctions · React · tRPC · Stripe · ramenanime.com · Portfolio ↓
+🍜 Ramen Anime - anime marketplace & auctions · React · tRPC · Stripe · ramenanime.com · Portfolio ↓
 ```
 
 ## 2. Website
