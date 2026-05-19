@@ -1,3 +1,18 @@
+<p align="center">
+  <a href="https://ramenanime.com"><img src="https://img.shields.io/badge/Live-ramenanime.com-F97316?style=for-the-badge" alt="Live site" /></a>
+  <a href="https://github.com/RamenAnime/RamenAnime-Portfolio"><img src="https://img.shields.io/badge/Portfolio-Technical%20Overview-2563EB?style=for-the-badge" alt="Portfolio" /></a>
+</p>
+
+<p align="center">
+  <strong>Full-stack founder</strong> · React 19 · TypeScript · tRPC · Stripe Connect · 35 languages · <a href="https://ramenanime.com">ramenanime.com</a>
+</p>
+
+<p align="center">
+  <em>Employers:</em> this public repo is the technical overview. Application source is private; available on request for interviews.
+</p>
+
+---
+
 # Ramen Anime
 
 ## Global Anime Collectibles Marketplace and Social Platform
